@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #555;
+        }
+        a {
+            text-decoration: none;
+            color: #fff;
+            padding: 10px;
+            margin: 5px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+            border-radius: 6px;
+            text-align: center;
+            padding: 20px;
+        }
+        .embed-responsive-16by9 {
+            border-radius: 10px;
+        }
+        .chat-container {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            width: 300px; /* Ajusta el ancho según tus necesidades */
+            height: 700px; /* Ajusta la altura según tus necesidades */
+        }
+        .links-container {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Enlaces arriba, centrados y con estilo -->
+    <div class="links-container">
+        <a href="https://hesgoals.top" target="_blank">Hesgoal</a>
+        <a href="https://www.totalsportek.soccer" target="_blank">TOTALSPORTEK</a>
+        <a href="https://www.f1livestream.top" target="_blank">F1 STREAMS</a>
+        <a href="https://footybite.to" target="_blank">SOCCER STREAMS</a>
+    </div>
+
+    <div class="container">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://liveon.sx/ch10.php" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <!-- Chat a la derecha del contenedor -->
+    <div class="chat-container">
+        <iframe src="https://chat.snake.rip/channel/653953608ab4a1326e2ad4ec" frameborder="0" style="border: none; width: 100%; height: 100%;"></iframe>
+    </div>
+</body>
+</html>
